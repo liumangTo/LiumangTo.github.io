@@ -1,0 +1,33 @@
+body,h1{
+	margin: 0;
+}
+body{
+	overflow: hidden;
+	background-color: #000;
+}
+#home_page{
+	background:url(../img/E-class1.jpg) no-repeat;
+	transform: 30s;
+}
+.page{
+	background:url(../img/E-class2.jpg) no-repeat;
+	z-index: -1;
+}
+#home_page,.page{
+	position:absolute;
+	left: 0;
+	top: 0;
+	background-size: 100% ;
+}
+
+#logo{
+	width: 257px;
+	height: 64px;
+	background: url(../img/logo.png) no-repeat;
+	text-indent: -9999px;
+	position: fixed;
+	left: 50px;
+	top: 50px;
+	cursor: pointer;
+}
+
