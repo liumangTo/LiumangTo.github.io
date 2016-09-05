@@ -1,0 +1,59 @@
+.clearfix:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.bb{
+	border-bottom:1px solid #eee;
+}
+.bt{
+	border-top:1px solid #eee;
+}
+.bb{
+	border-bottom:1px solid #eee;
+}
+.br{
+	border-right:1px solid #eee;
+}
+.mr{
+	margin-right:1px;
+}
+.ml{
+	margin-left:1px;
+}
+.mr80{
+	margin-right:80px;
+}
+
+.mr11{
+	margin-right: 11px;
+}
+.nmb{
+	margin-bottom:0px;
+}
+.nmt{
+	margin-top:0px;
+}
+.mr67{
+	margin-right:67px;
+}
+.mr25{
+	margin-right:25px;
+}
+.mr80{
+	margin-right:80px;
+}
+.mr11{
+	margin-right: 11px;
+}
+.clearfix:after{
+	content:"";
+	display:block;
+	clear:both;
+}

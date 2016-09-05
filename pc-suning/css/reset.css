@@ -1,0 +1,38 @@
+body,h1{
+	margin:0;	
+}
+a{
+	text-decoration:none;
+	color:#000;
+}
+img{
+	border:0;
+	vertical-align:top;
+}
+dl,dd{
+	margin:0;
+	padding:0px;
+}
+p{
+	margin: 0;
+	padding: 0;
+}
+input{
+	margin:0;
+	padding:0;
+	border:none;
+	outline:none;
+}
+ul{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+
+
+
+
+
+
+

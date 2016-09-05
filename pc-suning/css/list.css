@@ -1,0 +1,162 @@
+.shop{
+	width:990px;
+	height:32px;
+	background-color:#f4f4f4;
+	margin:0 auto;
+	padding-top:1px;
+}
+.shop .shop_info{
+	font-size:12px;
+	line-height:32px;
+	margin-right:10px;
+	color:#666;
+}
+.shop .shop_name{
+	margin-top:1px;
+	font-weight: bold;
+	color:#666;
+}
+.shop .line{
+	width:1px;
+	height:33px;
+	background-color:#dadada;
+	margin-left:10px;
+	margin-top:-1px;
+}
+.shop .satisfied{
+	color:#666;
+	margin-left:10px;
+}
+.service a{
+	color:#2272c8;
+}
+.shop .service{
+	width:17px;
+	height:15px;
+	background:url(../img/ico.jpg) no-repeat 0 0;
+	margin-top:9px;
+	margin-left:4px;
+	margin-right:6px;
+}
+.flagship{
+	width:990px;
+	height:120px;
+	margin:0 auto;
+	/*background-color:red;*/
+}
+.flagship .flagship_name{
+	width:229px;
+	height:120px;
+	background:url(../img/flagship_haier.jpg) no-repeat;
+	margin-right:65px;
+}
+.flagship .recommend{
+	width:214px;
+	height:114px;
+	margin-top:1px;
+	/*background-color:yellow;*/
+}
+.recommend .trait{
+	width:117px;
+	height:114px;
+	/*background-color:#fff;*/
+	margin-left:1px;
+}
+.trait .trait_title{
+	height:28px;
+	margin-top:14px;
+	font:22px/28px "微软雅黑";
+	color:#575757;
+}
+.trait .trait_content{
+	height:20px;
+	font:12px/20px "微软雅黑";
+	color:#595959;
+}
+.trait .buy{
+	width:59px;
+	height:18px;
+	background-color:#d11a38;
+	font:12px/18px "微软雅黑";
+	color:#fff;
+	text-align:center;
+	margin-top:23px;
+}
+.mr24{
+	margin-right:24px;
+}
+.banner{
+	height:35px;
+	background-color:#2d2d2d;
+}
+.banner .banner_ct{
+	width:990px;
+	height:35px;
+	margin:0 auto;
+	/*background-color:#fff;*/
+}
+.banner_ct .list{
+	margin-top:1px;
+	font-size:16px;
+	line-height:33px;
+}
+.list .home{
+	width:90px;
+	height:33px;
+	background-color:#ffff01;
+	margin-top:1px;
+	color:#2d2d2d;
+	text-align:center;
+}
+.list .item{
+	margin-left:20px;
+	margin-right:20px;
+	color:#fff;
+}
+.list .line{
+	width:1px;
+	height:19px;
+	background:url(../img/line.jpg) no-repeat;
+	margin-top:7px; 
+}
+.collect{
+	width:148px;
+	height:33px;
+	background:url(../img/sanjiao.jpg) no-repeat;
+	color:#2d2d2d;
+	padding-left:33px;
+	text-align:center;
+}
+.sort{
+	height:151px;
+	background-color:#eee;
+	margin-top:5px;
+}
+.sort .sort_content{
+	width:990px;
+	height:149px;
+	margin:0 auto;
+}
+.sort_content .item{
+	width:197px;
+	height:149px;
+	border:1px solid #d6d6d6;
+	margin-left:-1px;
+}
+.sort_content .item .bg{
+	width:115px;
+	height:92px;
+	margin-left:41px;
+	margin-top:17px;
+}
+.sort_content .item .text{
+	font-size:18px;
+	line-height:38px;
+	text-align:center;
+	color:#636363;
+	font-weight:bold;
+}
+.img_1 img{
+	width:100%;
+}
+
